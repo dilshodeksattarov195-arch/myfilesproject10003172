@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggeruetch",
+        "uuid": 28129296,
+        "checksum": "x4m82le"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
